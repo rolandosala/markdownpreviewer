@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/markdownpreviewer/static/js/main.ef21db04.js",
+    "static/js/453.cf94360e.chunk.js": "/markdownpreviewer/static/js/453.cf94360e.chunk.js",
+    "index.html": "/markdownpreviewer/index.html",
+    "main.ef21db04.js.map": "/markdownpreviewer/static/js/main.ef21db04.js.map",
+    "453.cf94360e.chunk.js.map": "/markdownpreviewer/static/js/453.cf94360e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ef21db04.js"
+  ]
+}
